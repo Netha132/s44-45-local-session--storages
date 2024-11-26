@@ -1,0 +1,207 @@
+.App {
+  text-align: center;
+ 
+}
+body{
+  background-color:#fff;
+}
+
+.loginForm{
+  background-image: url(./images/loginBG.jpg);
+  background-position: center;
+  background-size: cover;
+  display: inline-block;
+  padding: 10px;
+  margin-top: 5rem;
+  border-radius: 5px;
+  box-shadow: 5px 5px 25px #2a0551;
+}
+.loginForm label{
+  display: inline-block;
+  width: 100px;
+  color: #fff;
+  font-weight: 600;
+  position: relative;
+  right: 100px;
+  text-align: left;
+}
+.loginForm input{
+  width: 300px;
+  padding: 5px;
+}
+.loginForm div{
+  margin: 10px;
+}
+
+.navBar{
+  background-color: rgb(68, 7, 125);
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  margin-top: 10px;
+}
+.navLink{
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+.navLink:active{
+  color: #f5430c;
+}
+.forgotPasswordLink{
+  color: #35d808;
+  text-decoration: none;
+}
+.loginBtn{
+  padding: 5px 20px;
+  font-size: 1rem;
+  font-weight: 600;
+  background-color: rgb(80, 80, 252);
+  color: #fff;
+  border: none;
+  border-radius: 50px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.signupBtn{
+  padding: 5px 20px;
+  font-size: 1rem;
+  font-weight: 600;
+  background-color: #e20618;
+  color: #fff;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
+.signupInput{
+  padding: 10px 20px;
+  border-radius:10px ;
+  width: 250px;
+  border: none;
+  background-color: rgb(228, 210, 246);
+  margin: 10px;
+}
+.signupForm{
+  background-image: url(./images/loginBG.jpg);
+  background-size: cover;
+  display: inline-block;
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 25px #330168;
+}
+.profilePic{
+  width: 100px;
+  height: 100px;
+  border: 2px solid;
+  border-radius: 50%;
+}
+.file-Input-Container{
+  margin-left: 50px;
+  color: #fff;
+  margin-bottom: 10px;
+
+}
+.mainHead{
+    display: inline-block;
+    font-size: 2rem;
+    background-image: url("https://img.reintech.io/variants/s2odbtfbi1vnj0v0lpk08uk9n9fl/e7b4ce09c703210ab8f75b017c7eaf0951c5a95b737ee8120602845c1c1d944b");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+.signupFormBtn{
+  padding: 10px 50px;
+  width: 280px;
+  border: none;
+  background-color: #7504b6c8;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 50px;
+  margin: 10px;
+  letter-spacing: 2px;
+  cursor: pointer;
+}
+
+.alreadyAccountDiv{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-size: 0.8rem;
+  color: #fff;
+}
+.loginLink{
+  margin-top: 12px;
+  color: #35d808;
+}
+.forgotPasswordDiv{
+  border: 2px solid #fff;
+  display: inline-block;
+  margin: 5rem;
+  padding: 2rem;
+  background-image: url("https://i.pinimg.com/736x/70/79/48/70794809ac1ad01280d5b30860d7829d.jpg");
+  background-position: center;
+  background-size: contain;
+  border-radius: 5px;
+}
+.forgotPasswordLabel{
+  width: 200px;
+  display: inline-block;
+  text-align: left;
+  margin: 10px;
+  color: #fff;
+  font-weight: 600;
+}
+.cricbuzzNav,.cricNav{
+  font-size: 1rem;
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items:center;
+  padding-left: 25px;
+  text-decoration: none;
+}
+
+.cricbuzzLogo{
+  width: 130px;
+  padding: 5px;
+  display: flex;  
+}
+.cricNavBar{
+  background-color:#009270;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.dropDownNavLinks{
+  color: #000;
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  justify-content:start;
+  padding-left: 5px;
+  padding: 5px;
+  font-weight: 400;
+}
+.dropDownNavLinks:hover{
+  background-color: #e2dfdf;
+}
+.searchBtn{
+  color: #fff;
+  background-color: #009270;
+  border: none;
+  outline: none;
+  font-weight: 600;
+  border-radius: 5px;
+}
+.searchBtn:active{
+  background-color: #04ba8f;
+}
+.d-flex{
+  padding-left: 10px;
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9148f081.css",
+    "main.js": "/static/js/main.e22a27fd.js",
+    "static/js/453.4e90de0d.chunk.js": "/static/js/453.4e90de0d.chunk.js",
+    "static/media/loginBG.jpg": "/static/media/loginBG.0d5606d39f542999369d.jpg",
+    "static/media/cricbuzzLogo.png": "/static/media/cricbuzzLogo.a1025fa040c13c150bff.png",
+    "index.html": "/index.html",
+    "main.9148f081.css.map": "/static/css/main.9148f081.css.map",
+    "main.e22a27fd.js.map": "/static/js/main.e22a27fd.js.map",
+    "453.4e90de0d.chunk.js.map": "/static/js/453.4e90de0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9148f081.css",
+    "static/js/main.e22a27fd.js"
+  ]
+}
